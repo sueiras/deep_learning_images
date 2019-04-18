@@ -8,12 +8,12 @@ Use cases of image modeling with deep learning
 
 All use cases can be executed into Google colab environment
 
-* [Data augmentation with MNIST]( https://colab.research.google.com/github/sueiras/deep_learning_images/01_mnist_data_augmentation.ipynb)
-* [Train from scratch with CIFAR10 basic]( https://colab.research.google.com/github/sueiras/deep_learning_images/02_1_cifar10_VGG_based_architecture.ipynb)
-* [Train from scratch with CIFAR10 Resnet]( https://colab.research.google.com/github/sueiras/deep_learning_images/02_2_cifar10_resnet.ipynb)
-* [Transfer learning with cats vs dogs dataset]( https://colab.research.google.com/github/sueiras/deep_learning_images/03_transfer_learning_cats_vs_dogs.ipynb)
-* [Yolo install]( https://colab.research.google.com/github/sueiras/deep_learning_images/yolo/install_yolo.ipynb)
- * [Yolo train]( https://colab.research.google.com/github/sueiras/deep_learning_images/yolo/train_yolo.ipynb)
+* [Data augmentation with MNIST]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/01_mnist_data_augmentation.ipynb)
+* [Train from scratch with CIFAR10 basic]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/02_1_cifar10_VGG_based_architecture.ipynb)
+* [Train from scratch with CIFAR10 Resnet]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/02_2_cifar10_resnet.ipynb)
+* [Transfer learning with cats vs dogs dataset]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/03_transfer_learning_cats_vs_dogs.ipynb)
+* [Yolo install]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/yolo/install_yolo.ipynb)
+ * [Yolo train]( https://colab.research.google.com/github/sueiras/deep_learning_images/blob/master/yolo/train_yolo.ipynb)
 
 
 # OPTIONAL. To execute the samples locally
